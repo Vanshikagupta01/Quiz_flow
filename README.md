@@ -17,5 +17,7 @@ Displays the result after the user finishes the quiz.
 Example Flow:
 
 Start: Display a "Start Quiz" button.
+
 Questions: Display one question at a time with multiple choice options. Users select answers.
+
 Results: After the last question, display the score based on correct answers.
